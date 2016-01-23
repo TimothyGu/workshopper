@@ -1,6 +1,6 @@
 {
-  "name": "@timothygu/workshopper",
-  "version": "2.7.4",
+  "name": "workshopper-timothygu",
+  "version": "2.7.5",
   "description": "A terminal workshop runner framework",
   "main": "./workshopper.js",
   "author": "Rod Vagg <rod@vagg.org> (https://github.com/)",
